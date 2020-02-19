@@ -26,7 +26,7 @@ public class EasybuyOrderDetail implements Serializable {
     * 数量
     */
     private Integer quantity;
-    /**
+    /** 
     * 消费
     */
     private Object cost;
